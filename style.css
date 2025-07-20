@@ -170,7 +170,7 @@ header p{
     color: var(--gray);
     cursor: pointer;
     font-size: 16px;
-    opacity: 0;
+    opacity: 1;
     transition: all 0.2s;
 }
 .todo-item:hover .delete-btn{
